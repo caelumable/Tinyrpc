@@ -19,7 +19,7 @@
 ## How to use:
 
 ```
-cd tinyrpc
+cd Tinyrpc
 mkdir build
 cd build
 cmake ..
